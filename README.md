@@ -1,2 +1,2 @@
 # Simple Weather Web App
- This is a simple weather app project which I worked on while undergoing a Web Development course
+ This is a simple Fully Responsive weather app project which I worked on while undergoing a Web Development course, it doesnt have much amazing features like weather forcast and all that, but in general, its a pretty simple project.
